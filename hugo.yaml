@@ -56,7 +56,7 @@ params:
 
     sidebar:
         emoji: 🫵
-        subtitle: you know if you know😁
+        subtitle: you know if you know...😁
         avatar:
             enabled: true
             local: true
