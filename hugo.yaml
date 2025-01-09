@@ -56,7 +56,7 @@ params:
 
     sidebar:
         emoji: 🫵
-        subtitle: 你来了啊，好久不见😁
+        subtitle: you know if you know😁
         avatar:
             enabled: true
             local: true
