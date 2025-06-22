@@ -48,3 +48,5 @@ image = "pics/view.jpg"
 ​	这篇文章大概就分享这么多，对了，如果你对研究顾问的事情感兴趣，可以注册看看，用我的推荐码还能获得200美元的新人奖励。
 
 ​	注册链接[https://platform.worldquantbrain.com/referral/ED93297](https://platform.worldquantbrain.com/sign-up)
+
+​	推荐码：ED93297
