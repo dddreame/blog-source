@@ -247,3 +247,10 @@ markup:
         lineNos: true
         lineNumbersInTable: true
         tabWidth: 4
+
+#         //git init
+# git add .
+# git commit -m "first commit"
+# git branch -M main
+# git remote add origin {你的github仓库地址}
+# git push -u origin main
